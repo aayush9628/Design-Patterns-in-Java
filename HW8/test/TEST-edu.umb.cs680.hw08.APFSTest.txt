@@ -1,0 +1,6 @@
+Testcase: edu.umb.cs680.hw08.APFSTest
+Test: testingTotalSizeOfDirectory() took 64 milli sec(s)
+Test: testingChildren() took 3 milli sec(s)
+Test: testingLink() took 7 milli sec(s)
+Test: testingParentChildRelationship() took 5 milli sec(s)
+Tests run: 4, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 100 milli sec(s)
